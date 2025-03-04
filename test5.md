@@ -1,2 +1,2 @@
-This another file
+My branch is merge conflicts
 
